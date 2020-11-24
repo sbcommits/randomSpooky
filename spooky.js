@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //arrays
 eaten = ['Werewolf', 'Slime Monster', 'Ghost'];
 underBed = ['Demon', 'Boogey Man', 'Tentacle Creature'];
@@ -13,3 +14,8 @@ console.log(`There's a ${bed} under your bed!`);
 let doNot = doNotGo[Math.floor(Math.random() * doNotGo.length)];
 console.log(`Don't go ${doNot}!`);
 
+=======
+eaten = ['Werewolf', 'Slime Monster', 'Ghost'];
+underBed = ['Demon', 'Boogey Man', 'Tentacle Creature'];
+doNotGo = ['outside', 'under the stars', 'in there'];
+>>>>>>> 4eceb5a12b8491e9731bbb9a6f247e2363e3e876
