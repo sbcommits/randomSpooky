@@ -13,3 +13,4 @@ console.log(`There's a ${bed} under your bed!`);
 let doNot = doNotGo[Math.floor(Math.random() * doNotGo.length)];
 console.log(`Don't go ${doNot}!`);
 
+
